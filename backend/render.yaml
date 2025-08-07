@@ -9,6 +9,6 @@ startCommand: node index.js
 rootDir: backend
 envVars:
 - key: MONGO_URI
-value: MONGO_URI=mongodb+srv://juanDBUser:Global_123@cineversecluster.bq8jxbv.mongodb.net/cineverse?retryWrites=true&w=majority
+value: 
 - key: OPENROUTER_API_KEY
 value: OPENROUTER_API_KEY=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
